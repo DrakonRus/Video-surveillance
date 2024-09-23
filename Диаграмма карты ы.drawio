@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.12">
+  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
+    <mxGraphModel dx="1386" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZAEXqBAL-D8bQg3lmCg8-1789" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZAEXqBAL-D8bQg3lmCg8-1779" target="ZAEXqBAL-D8bQg3lmCg8-1780">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZAEXqBAL-D8bQg3lmCg8-1779" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZAEXqBAL-D8bQg3lmCg8-1792" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZAEXqBAL-D8bQg3lmCg8-1780" target="ZAEXqBAL-D8bQg3lmCg8-1783">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZAEXqBAL-D8bQg3lmCg8-1795" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZAEXqBAL-D8bQg3lmCg8-1780" target="ZAEXqBAL-D8bQg3lmCg8-1784">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZAEXqBAL-D8bQg3lmCg8-1801" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZAEXqBAL-D8bQg3lmCg8-1780" target="ZAEXqBAL-D8bQg3lmCg8-1786">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZAEXqBAL-D8bQg3lmCg8-1780" value="Оформление услуги" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="200" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZAEXqBAL-D8bQg3lmCg8-1783" value="Все доступные продукты и стоимость" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="414" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZAEXqBAL-D8bQg3lmCg8-1784" value="Выбор продукта&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="414" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZAEXqBAL-D8bQg3lmCg8-1785" value="Выбор времени&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="414" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZAEXqBAL-D8bQg3lmCg8-1786" value="Оформление заявки&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="414" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZAEXqBAL-D8bQg3lmCg8-1799" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.558;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZAEXqBAL-D8bQg3lmCg8-1780" target="ZAEXqBAL-D8bQg3lmCg8-1785">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
